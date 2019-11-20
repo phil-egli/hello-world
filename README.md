@@ -2,4 +2,4 @@
 
 hi
 
-i'm using github the first time in my life... woohoo! let's code!
+i'm using github for the first time in my life... woohoo! let's code!
